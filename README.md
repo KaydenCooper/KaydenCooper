@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![KaydenCooper's github stats](https://github-readme-stats.vercel.app/api?username=KaydenCooper&show_icons=true&bg_color=rgba(255,255,255,1))](https://github.com/KaydenCooper/github-readme-stats)
 <!--
 **KaydenCooper/KaydenCooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
